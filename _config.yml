@@ -24,6 +24,10 @@ url: "http://ggonnella.github.io" # the base hostname & protocol for your site
 twitter_username: ggonnella
 github_username:  ggonnella
 
+permalink: /:categories/:year/:month/:day/:title 
+
+production_url : http://ggonnella.github.io
+
 # Build settings
 markdown: kramdown
 theme: minima
