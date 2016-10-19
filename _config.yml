@@ -26,7 +26,7 @@ github_username:  ggonnella
 
 permalink: /:categories/:year/:month/:day/:title 
 
-production_url : http://ggonnella.github.io
+production_url : https://ggonnella.github.io
 
 # Build settings
 markdown: kramdown
