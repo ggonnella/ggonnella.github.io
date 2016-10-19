@@ -3,6 +3,8 @@ layout: default
 title: Homepage
 ---
 
+Giorgio Gonnella''s Github bloG
+
 ### Links
 
 - [Institutional Homepage][home]
@@ -19,7 +21,7 @@ title: Homepage
   {% endfor %}
 </ul>
 
-[home]: http://zbh.uni-hamburg.de/gonnella
+[home]: http://www.zbh.uni-hamburg.de/gonnella
 [github]: https://github.com/ggonnella
 [twitter]: https://twitter.com/ggonnella
 [gsch]: http://scholar.google.com/citations?user={{ site.scholar_ID }}
