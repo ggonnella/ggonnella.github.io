@@ -9,6 +9,7 @@ Giorgio Gonnella''s Github bloG
 
 - [Institutional Homepage][home]
 - [Github][github]
+- [LinkedIn][linkedin]
 - [Twitter][twitter]
 - [Disqus][disqus]
 - [Google Scholar][gsch]
@@ -26,3 +27,4 @@ Giorgio Gonnella''s Github bloG
 [twitter]: https://twitter.com/ggonnella
 [gsch]: http://scholar.google.com/citations?user={{ site.scholar_ID }}
 [disqus]: http://disqus.com/giorgio_gonnella/
+[linkedin]: https://www.linkedin.com/in/giorgio-gonnella-36677620
