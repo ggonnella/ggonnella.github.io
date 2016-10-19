@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ggonnella.github.io" # the base hostname & protocol for your site
 twitter_username: ggonnella
 github_username:  ggonnella
+scholar_ID: Dm01FyoAAAAJ
 
 permalink: /:categories/:year/:month/:day/:title 
 
