@@ -14,7 +14,7 @@ Giorgio Gonnella''s Github bloG
 - [Disqus][disqus]
 - [Google Scholar][gsch]
 
-### Posts [RSS](rss.xml)
+### Posts [RSS](feed.xml)
 
 <ul class="posts">
   {% for post in site.posts %}
