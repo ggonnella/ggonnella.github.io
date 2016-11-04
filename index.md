@@ -13,6 +13,7 @@ Giorgio Gonnella''s Github bloG
 - [Twitter][twitter]
 - [Disqus][disqus]
 - [Google Scholar][gsch]
+- [ResearchGate][rgate]
 
 ### Posts [RSS](feed.xml)
 
@@ -28,3 +29,4 @@ Giorgio Gonnella''s Github bloG
 [gsch]: http://scholar.google.com/citations?user={{ site.scholar_ID }}
 [disqus]: http://disqus.com/giorgio_gonnella/
 [linkedin]: https://www.linkedin.com/in/giorgio-gonnella-36677620
+[rgate]: https://www.researchgate.net/profile/Giorgio_Gonnella
